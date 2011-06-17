@@ -1,0 +1,43 @@
+10
+
+dir
+6081
+svn://rubyforge.org/var/svn/redmine/branches/1.2-stable/app
+svn://rubyforge.org/var/svn/redmine
+
+
+
+2011-06-03T11:41:34.837596Z
+6000
+tmaruyama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+sweepers
+dir
+
+views
+dir
+

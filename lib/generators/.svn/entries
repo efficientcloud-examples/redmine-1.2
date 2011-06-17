@@ -1,0 +1,37 @@
+10
+
+dir
+6081
+svn://rubyforge.org/var/svn/redmine/branches/1.2-stable/lib/generators
+svn://rubyforge.org/var/svn/redmine
+
+
+
+2010-06-17T19:02:13.409991Z
+3771
+edavis10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+redmine_plugin
+dir
+
+redmine_plugin_model
+dir
+
+redmine_plugin_controller
+dir
+
